@@ -10,7 +10,7 @@
 .wrapper-widgets .tabss label {
     display: -ms-inline-grid;
     display: inline-grid;
-    width: 16.65%;
+    width: 17.65%;
     text-align: center;
     line-height: 2;
     cursor: pointer;
@@ -23,6 +23,7 @@
     line-height: 1.5;
     text-transform: capitalize;
     vertical-align: bottom;
+    transition: border-bottom 2s ease;
 }
 
 .wrapper-widgets .tabss label:hover {
